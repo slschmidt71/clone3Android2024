@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="button_text">Je suis un bouton!</string>
+    <string name="toast_message">l\'étiquette a été mise à jour.</string>
+    <string name="snackbar_message">La case à cocher est maintenant </string>
+    <string name="love_message">J\'aime le Android</string>
+    <string name="switch_message">Allumer / éteindre</string>
+    <string name="pressbutton_message">PRESSE-MOI</string>
+    <string name="checkbox_message">Regarde ça!</string>
+    <string name="welcome_message">Bienvenue</string>
+    <string name="dont_button">ne m\'appelle pas comme ça</string>
+    <string name="next_button">Suivant</string>
+    <string name="thank_button">Merci</string>
+    <string name="name_edittext">Entrez votre nom</string>
+</resources>

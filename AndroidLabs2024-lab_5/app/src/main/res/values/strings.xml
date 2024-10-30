@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_world">Hello World</string>
+    <string name="button_text">I\'m a button!</string>
+    <string name="toast_message">Label has been updated.</string>
+    <string name="snackbar_message">The checkbox is now </string>
+    <string name="love_message">I love Android</string>
+    <string name="switch_message">Switch on/off</string>
+    <string name="pressbutton_message">PRESS ME</string>
+    <string name="checkbox_message">Check this out!</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="dont_button">Don\'t call me that!</string>
+    <string name="next_button">Next</string>
+    <string name="thank_button">Thank You</string>
+    <string name="name_edittext">Enter Your Name</string>
+</resources>
